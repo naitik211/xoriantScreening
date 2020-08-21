@@ -1,2 +1,3 @@
-Knight problem is partialy done
-Tried to complete react scaffold
+- Thanks for allocating me this problems, it helps me to improve my logical and basic react configuration skills. Due to CRA i think this interesting configuration part becomes a memory.
+- Knight problem is partialy done
+- Tried to complete react scaffold task 
